@@ -1,4 +1,4 @@
-# 👋 Hey, I’m mmair738! 🚀
+# 👋 Hey, I’m umair738! 🚀
 
 **Front-end Developer | Web3 Explorer | UI/UX Enthusiast | Lifelong Learner**
 
