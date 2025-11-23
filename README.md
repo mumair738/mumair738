@@ -28,7 +28,6 @@ I create fast, responsive, and clean digital experiences—combining creativity,
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-000000?style=for-the-badge&logo=web3.js&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 ---
 
