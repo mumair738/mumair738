@@ -1,4 +1,4 @@
-# 👋 Hey, I’m mumair738! 🚀
+# 👋 Hey, I’m Shaikh6767! 🚀
 
 **Front-end Developer | Web3 Explorer | UI/UX Enthusiast | Lifelong Learner**
 
